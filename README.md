@@ -18,4 +18,6 @@
 - `DagsHub` : Collaborative platform for data science and ML projects.
 
 #### Relationship among the used tools are as follows: 
-- 
+- `MLflow` and `Prefect` are complementary tools. `MLflow` focuses on ML experiment tracking and model management, while `Prefect` excels at building and orchestrating workflows (including ML workflows). They can work together for comprehensive ML lifecycle management.
+
+- `DagsHub` offers functionalities similar to both `MLflow` and `Prefect`, with an emphasis on collaboration and version control. It can integrate with MLflow for experiment tracking and leverage Prefect for workflow orchestration within its platform.
