@@ -17,5 +17,5 @@
 - `Prefect` : Manages task dependencies and execution order with scheduling options.
 - `DagsHub` : Collaborative platform for data science and ML projects.
 
-#### Their Relationship:
+#### Relationship among the used tools: 
 - 
