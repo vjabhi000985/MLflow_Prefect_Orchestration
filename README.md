@@ -8,3 +8,14 @@
 - Demonstrate hyperparameter plots.
 - Demonstrate how to register models and manage by tagging them.
 - `(BONUS)` Build a Prefect Workflow and Auto Schedule it. Show the Prefect Dashboard with relevant outputs.
+
+### Tools Used:
+- `MLflow` : Open-source platform for managing the Machine Learning (ML) lifecycle.
+   - *Streamlines deployment*: Simplifies the process of deploying models to production.
+   - *Automates workflows*: Integrates with tools for experiment scheduling and deployment pipelines.
+
+- `Prefect` : Manages task dependencies and execution order with scheduling options.
+- `DagsHub` : Collaborative platform for data science and ML projects.
+
+#### Their Relationship:
+- 
