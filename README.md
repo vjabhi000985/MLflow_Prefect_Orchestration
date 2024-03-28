@@ -10,7 +10,8 @@
 - [✅] `(BONUS)` Build a Prefect Workflow and Auto Schedule it. Show the Prefect Dashboard with relevant outputs.
 - [❌] Need to prepare the ppt of this project and submit it on 29th March, before 3:00 PM.
 - [❌] Have to update the readme.md file.
-- [❌] Also, share the post into linkedin. 
+- [❌] Also, share the post into linkedin.
+- [❌] At last, also share the advanced data analytics certificate on linkedin.
 
 ### Tools Used:
 - `MLflow` : Open-source platform for managing the Machine Learning (ML) lifecycle.
