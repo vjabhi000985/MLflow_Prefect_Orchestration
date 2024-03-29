@@ -6,7 +6,7 @@ It allows us to:
 - Manage task order: It cleverly manages the order in which these tasks run, ensuring everything happens at the right time.
 - Keep an eye on progress: Prefect monitors your workflows as they run, catching any errors and offering visualizations to help you troubleshoot.
 
-### Given Tasks are :
+### Completed Tasks are :
 - [✅] Integrate MLflow into your existing machine learning projects.
 - [✅] Train machine learning models while logging relevant information with MLflow.
 - [✅] Demonstrate how to log parameters, metrics, and artifacts using MLflow tracking APIs.
@@ -15,10 +15,6 @@ It allows us to:
 - [✅] Demonstrate hyperparameter plots.
 - [✅] Demonstrate how to register models and manage by tagging them.
 - [✅] `(BONUS)` Build a Prefect Workflow and Auto Schedule it. Show the Prefect Dashboard with relevant outputs.
-- [❌] Need to prepare the ppt of this project and submit it on 29th March, before 3:00 PM.
-- [❌] Have to update the readme.md file.
-- [❌] Also, share the post into linkedin.
-- [❌] At last, also share the advanced data analytics certificate on linkedin.
 
 ### Tools Used:
 - `MLflow` : Open-source platform for managing the Machine Learning (ML) lifecycle.
