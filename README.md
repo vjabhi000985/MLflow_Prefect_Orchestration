@@ -1,4 +1,11 @@
 ## Using MLflow for Experiment Tracking and Model Management
+### Intoduction
+This project takes sentiment analysis to the next level by seamlessly integrating MLflow for robust experiment tracking, model management, and improved reproducibility. Also, it uses the Prefect for that helps us build organized and efficient data pipelines, especially for machine learning. 
+It allows us to:
+- Break down complex tasks: Prefect lets you divide your data processing or machine learning workflow into smaller, reusable steps called tasks.
+- Manage task order: It cleverly manages the order in which these tasks run, ensuring everything happens at the right time.
+- Keep an eye on progress: Prefect monitors your workflows as they run, catching any errors and offering visualizations to help you troubleshoot.
+
 ### Given Tasks are :
 - [✅] Integrate MLflow into your existing machine learning projects.
 - [✅] Train machine learning models while logging relevant information with MLflow.
