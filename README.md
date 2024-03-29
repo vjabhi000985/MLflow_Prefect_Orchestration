@@ -28,3 +28,8 @@ It allows us to:
 - `MLflow` and `Prefect` are complementary tools. `MLflow` focuses on ML experiment tracking and model management, while `Prefect` excels at building and orchestrating workflows (including ML workflows). They can work together for comprehensive ML lifecycle management.
 
 - `DagsHub` offers functionalities similar to both `MLflow` and `Prefect`, with an emphasis on collaboration and version control. It can integrate with MLflow for experiment tracking and leverage Prefect for workflow orchestration within its platform.
+
+### Screenshots
+#### `MLflow Dashboard and Registered Model`
+![Screenshot (140)](https://github.com/vjabhi000985/MLflow_Prefect_Orchestration/assets/46738718/857b714b-0ff0-4622-b947-3df24948ae61)
+![Screenshot (139)](https://github.com/vjabhi000985/MLflow_Prefect_Orchestration/assets/46738718/d986dd3d-9023-4fc0-9f77-f27ce8e555fd)
