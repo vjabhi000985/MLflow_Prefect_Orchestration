@@ -33,3 +33,7 @@ It allows us to:
 #### `MLflow Dashboard and Registered Model`
 ![Screenshot (140)](https://github.com/vjabhi000985/MLflow_Prefect_Orchestration/assets/46738718/857b714b-0ff0-4622-b947-3df24948ae61)
 ![Screenshot (139)](https://github.com/vjabhi000985/MLflow_Prefect_Orchestration/assets/46738718/d986dd3d-9023-4fc0-9f77-f27ce8e555fd)
+
+#### `Prefect Dashboard and Workflow`
+![Screenshot (143)](https://github.com/vjabhi000985/MLflow_Prefect_Orchestration/assets/46738718/7bb9b3b9-8bc6-4919-9a1a-773cea73e411)
+![Screenshot (144)](https://github.com/vjabhi000985/MLflow_Prefect_Orchestration/assets/46738718/f1d88a6d-4478-4067-9276-9394aead4952)
